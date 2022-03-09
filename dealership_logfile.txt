@@ -1,0 +1,32 @@
+19:06:42 Mar-09-2022,ETL started
+19:06:42 Mar-09-2022,Extract step started
+19:06:42 Mar-09-2022,Extract step completed
+19:06:42 Mar-09-2022,Transform step started
+19:07:16 Mar-09-2022,ETL started
+19:07:16 Mar-09-2022,Extract step started
+19:07:16 Mar-09-2022,Extract step completed
+19:07:16 Mar-09-2022,Transform step started
+19:07:58 Mar-09-2022,ETL started
+19:07:58 Mar-09-2022,Extract step started
+19:08:11 Mar-09-2022,Extract step completed
+19:08:11 Mar-09-2022,Transform step started
+19:08:11 Mar-09-2022,Transform step completed started
+19:08:11 Mar-09-2022,Load step started
+19:08:11 Mar-09-2022,Load step completed
+19:08:11 Mar-09-2022,ETL completed
+19:08:11 Mar-09-2022,ETL started
+19:08:11 Mar-09-2022,Extract step started
+19:08:11 Mar-09-2022,Extract step completed
+19:08:11 Mar-09-2022,Transform step started
+19:08:11 Mar-09-2022,Transform step completed started
+19:08:11 Mar-09-2022,Load step started
+19:08:11 Mar-09-2022,Load step completed
+19:08:11 Mar-09-2022,ETL completed
+19:08:37 Mar-09-2022,ETL started
+19:08:37 Mar-09-2022,Extract step started
+19:08:38 Mar-09-2022,Extract step completed
+19:08:38 Mar-09-2022,Transform step started
+19:08:38 Mar-09-2022,Transform step completed started
+19:08:38 Mar-09-2022,Load step started
+19:08:38 Mar-09-2022,Load step completed
+19:08:38 Mar-09-2022,ETL completed
